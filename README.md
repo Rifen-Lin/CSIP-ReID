@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <h1 align="center">Skeletons Speak Louder than Text: A Motion-Aware Pretraining Paradigm for Video-Based Person Re-Identification</h1>
